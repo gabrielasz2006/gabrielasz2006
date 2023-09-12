@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 meet me
+- 💻 I work with design and did my first programming creating a website in Python and Alura
 
 - ⚽ I'm currently playing ball
 - 💻 I'm currently playing on my computer
